@@ -3,3 +3,10 @@ body {
   max-width: 600px;
   margin: 40px auto;
 }
+
+section {
+  margin-top: 24px;
+  padding: 16px;
+  background: #f5f7fa;
+  border-radius: 8px;
+}
